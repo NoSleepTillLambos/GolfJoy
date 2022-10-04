@@ -11,13 +11,14 @@
 <p align="center">
 
   <a href="https://github.com/username/projectname">
-    <img src="https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable-v24/image308.png" alt="App Logo" width="412" height="210">
+    <img src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/Assets.xcassets/AppIcon.appiconset/logo-2.png" alt="App Logo" width="412" height="210">
   </a>
   
   <h3 align="center">GolfJoy</h3>
 
   <p align="center">
-    GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their game.<br>
+    GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their golf game.<br> Golfers can search for tips
+    posted by other users, lets grow this community together!
       <a href="https://github.com/NoSleepTillLambos/QuestApp"><strong>Explore the docs »</strong></a>
    <br />
    <br />
@@ -147,8 +148,8 @@ To see a run through of the application, click below:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- all resources that you used and Acknowledgements here -->
-* [Android Studio](https://developer.android.com/studio)
-* [Kotlin](https://kotlinlang.org/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Xcode](https://developer.apple.com/xcode/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [image1]: /path/to/image.png
