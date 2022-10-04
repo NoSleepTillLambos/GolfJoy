@@ -2,7 +2,6 @@
 //  swift_UITests.swift
 //  swift-UITests
 //
-//  Created by Paige Phelps on 2022/09/28.
 //
 
 import XCTest

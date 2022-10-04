@@ -74,7 +74,7 @@
 		31F7BDDF28E43B450077C1A1 = {
 			isa = PBXGroup;
 			children = (
-				31F7BDEA28E43B460077C1A1 /* swift-UI */,
+				31F7BDEA28E43B460077C1A1 /* GolfJoy */,
 				31F7BDFB28E43B4E0077C1A1 /* swift-UITests */,
 				31F7BE0528E43B4E0077C1A1 /* swift-UIUITests */,
 				31F7BDE928E43B460077C1A1 /* Products */,
@@ -91,7 +91,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		31F7BDEA28E43B460077C1A1 /* swift-UI */ = {
+		31F7BDEA28E43B460077C1A1 /* GolfJoy */ = {
 			isa = PBXGroup;
 			children = (
 				31F7BDEB28E43B460077C1A1 /* swift_UIApp.swift */,
@@ -99,7 +99,7 @@
 				31F7BDEF28E43B4D0077C1A1 /* Assets.xcassets */,
 				31F7BDF128E43B4D0077C1A1 /* Preview Content */,
 			);
-			path = "swift-UI";
+			path = GolfJoy;
 			sourceTree = "<group>";
 		};
 		31F7BDF128E43B4D0077C1A1 /* Preview Content */ = {
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 31F7BDE328E43B450077C1A1 /* Build configuration list for PBXProject "swift-UI" */;
+			buildConfigurationList = 31F7BDE328E43B450077C1A1 /* Build configuration list for PBXProject "GolfJoy" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -540,7 +540,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		31F7BDE328E43B450077C1A1 /* Build configuration list for PBXProject "swift-UI" */ = {
+		31F7BDE328E43B450077C1A1 /* Build configuration list for PBXProject "GolfJoy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				31F7BE0A28E43B4E0077C1A1 /* Debug */,
