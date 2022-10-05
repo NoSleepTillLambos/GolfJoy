@@ -10,7 +10,7 @@ struct ContentView: View {
         ZStack {
             Color.black
                 .ignoresSafeArea()
-            Text("Content view").foregroundColor(.white)
+            Text("SwiftIcon").foregroundColor(.white)
             }
         }
     
