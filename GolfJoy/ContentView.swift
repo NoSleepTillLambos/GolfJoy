@@ -7,11 +7,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        ZStack {
-            Color.black
-                .ignoresSafeArea()
-            Text("SwiftIcon").foregroundColor(.white)
+        TabView {
+            Allgolf().tabItem {
+                Image(systemName: "house")
+                Text("Home")
             }
+            SingleItem().tabItem {
+                Image(systemName: "figure.golf")
+                Text("Item")
+            }
+            SettingsView().tabItem {
+                Image(systemName: "gear")
+                Text("Settings")
+            }
+            
+        }
         }
     
 }
