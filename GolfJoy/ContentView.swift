@@ -6,6 +6,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    @AppStorage("shouldShowOnBoarding") var shouldShowOnboarding: Bool = true
     var body: some View {
         TabView {
             Allgolf().tabItem {
@@ -22,6 +23,10 @@ struct ContentView: View {
             }
             
         }
+        .fullScreenCover(isPresented: $shouldShowOnboarding, content: {
+            OnBoardingView(shouldShowOnBoarding: $shouldShowOnboarding)
+        })
+        
         }
     
 }
