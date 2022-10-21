@@ -6,6 +6,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    @AppStorage("isDarkMode") private var isDarkMode = false
     @AppStorage("shouldShowOnBoarding") var shouldShowOnboarding: Bool = true
     var body: some View {
         TabView {
@@ -23,6 +24,7 @@ struct ContentView: View {
             }
             
         }
+        .preferredColorScheme(isDarkMode ? .dark : .light)
         .fullScreenCover(isPresented: $shouldShowOnboarding, content: {
             OnBoardingView(shouldShowOnBoarding: $shouldShowOnboarding)
         })
