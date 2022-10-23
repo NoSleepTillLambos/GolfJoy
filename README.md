@@ -16,10 +16,9 @@
   
   <h3 align="center">GolfJoy</h3>
 
-  <p align="center">
+  <h4 align="center">
     GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their golf game.<br> Golfers can search for tips
-    posted by other users, lets grow this community together!
-      <a href="https://github.com/NoSleepTillLambos/QuestApp"><strong>Explore the docs »</strong></a>
+    posted by other users, lets grow this community together! </h4>
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
