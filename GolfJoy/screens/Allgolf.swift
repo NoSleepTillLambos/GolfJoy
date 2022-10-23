@@ -14,21 +14,26 @@ struct Allgolf: View {
         
         NavigationView {
             List(videos, id: \.id) { video in
-                Image(video.imageName)
-                    .resizable()
-                    .scaledToFit()
-                    .frame(height: 70)
-                    .cornerRadius(4)
+                NavigationLink(
+                destination: detailedView(video: video),
+                label: {
+                 Image(video.imageName)
+                        .resizable()
+                        .scaledToFit()
+                        .frame(height: 70)
+                        .cornerRadius(4)
+                    
+                    VStack(alignment: .leading, spacing: 5){
+                        Text(video.title)
+                            .fontWeight(.medium)
+                            .lineLimit(2)
+                            .minimumScaleFactor(0.5)
+                        Text(video.uploadDate)
+                            .font(.subheadline)
+                            .foregroundColor(.secondary)
+                    }
+                })
                 
-                VStack(alignment: .leading, spacing: 5){
-                    Text(video.title)
-                        .fontWeight(.medium)
-                        .lineLimit(2)
-                        .minimumScaleFactor(0.5)
-                    Text(video.uploadDate)
-                        .font(.subheadline)
-                        .foregroundColor(.secondary)
-                }
                 
             }
             .navigationTitle("Browse our training videos")
