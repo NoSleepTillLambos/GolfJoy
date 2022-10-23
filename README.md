@@ -16,10 +16,9 @@
   
   <h3 align="center">GolfJoy</h3>
 
-  <p align="center">
+  <h4 align="center">
     GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their golf game.<br> Golfers can search for tips
-    posted by other users, lets grow this community together!
-      <a href="https://github.com/NoSleepTillLambos/QuestApp"><strong>Explore the docs »</strong></a>
+    posted by other users, lets grow this community together! </h4>
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
@@ -64,13 +63,13 @@
 
 ### Project Description
 
-The project features three different categories, History, Sports and Television. The player is able to select any of these three and 
-test themselves against the questions I have designed
+<h5>This project was built using Xcode and programmed using Swift. The app features a variety of videos that golfers can access to help improve and work on all aspects of their game.</h5>
 
 ### Built With
 
-* [Kotlin](https://kotlinlang.org/)
-* [Android Studio](https://developer.android.com/studio)
+* [Xcode](https://developer.apple.com/xcode/)
+* [Swift](https://www.swift.org/)
+* [SF Symbol](https://developer.apple.com/sf-symbols/)
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
@@ -80,9 +79,10 @@ The following instructions will get you a copy of the project up and running on 
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwm8WZBhBUEiwA178UnDn9nF-CRrhcI0D_6H7EhBtmU8kK2DkGulFY6qTHYwRr2uJtlHJRGBoCqlQQAvD_BwE&gclsrc=aw.ds) installed on your machine.
+Ensure that you have the latest version of [Xcode](https://developer.apple.com/xcode/) installed on your machine.
 <!-- Briefly explain your concept ideation process -->
-
+I tried to keep the app as simple yet compelling as possible, with the user flow at the top of the priority list ensuring easy access to everything with 
+very few clicks of a button
 ### Ideation
 
 ![image5](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/group71.png)
@@ -107,9 +107,9 @@ Highlights of the project were being able to work with the Kotlin langauge and t
 I found the syntax and language in general to be a very rewarding one when working out issues and solving bugs
 
 #### Challenges
-The biggest challenge for me was learning a new language and working with the new syntax that comes along with it. <br/> 
-Getting the storage and high scores to work also proved to be a bit of a challenge at times, all in all though it was great to be able to experiment <br/> 
-and test the waters. 
+- Learning an entirely new syntax proved to be difficult
+- Xcode is very finicky so getting around those and working out the correct methods and paths was a problem for me in the beginning, lucky there are some very well put together tutorials that helped me get past a lot of the problems
+
 
 <!-- MOCKUPS -->
 ## Final Outcome
@@ -124,8 +124,8 @@ and test the waters.
 
 #### Future Implementation
 
-In the future i would like to add high scores for every category <br/>
-I would like to add different methods of answering questions such as tapping on and typing in inputs
+In the future i would like to include a external storage system such as firebase <br/>
+Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score. 
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
@@ -148,8 +148,9 @@ To see a run through of the application, click below:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- all resources that you used and Acknowledgements here -->
-* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Xcode](https://developer.apple.com/xcode/)
+* [Swift](https://www.swift.org/)
+* [SF Symbol](https://developer.apple.com/sf-symbols/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [image1]: /path/to/image.png
