@@ -9,7 +9,20 @@ import SwiftUI
 
 struct Allgolf: View {
     
+
+    @State var searchText: String = ""
+    
     var videos: [Video] = golfList.golfInfo
+    
+    var filteredData: [Video] {
+        if (searchText.isEmpty) {
+            return golfList.golfInfo
+        } else {
+            return golfList.golfInfo.filter {$0.title.contains(searchText)}
+        }
+    }
+    
+    
     var body: some View {
         
         NavigationView {
@@ -37,6 +50,7 @@ struct Allgolf: View {
                 
             }
             .navigationTitle("Browse our training videos")
+            .searchable(text: $searchText)
         }
         
         

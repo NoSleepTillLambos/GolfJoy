@@ -8,6 +8,7 @@ import SwiftUI
 struct ContentView: View {
     @AppStorage("isDarkMode") private var isDarkMode = false
     @AppStorage("shouldShowOnBoarding") var shouldShowOnboarding: Bool = true
+    
     var body: some View {
         TabView {
             Allgolf().tabItem {
@@ -25,7 +26,7 @@ struct ContentView: View {
             OnBoardingView(shouldShowOnBoarding: $shouldShowOnboarding)
         })
         
-        }
+    }
     
 }
 
