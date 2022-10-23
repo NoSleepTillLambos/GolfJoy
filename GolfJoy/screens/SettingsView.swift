@@ -29,12 +29,17 @@ struct SettingsView: View {
             }
             VStack {
                 Text("Welcome to GolfJoy, the first of its kind, offering golfers the chance to learn from the best. Feel free to visit my repo by tapping on the link below").opacity(0.6).padding()
-                Section {
-                    Link(destination: URL(string: "https://github.com/NoSleepTillLambos?tab=repositories")!, label: {
-                            Image("github-1").frame(width: 80, height: 80).padding()
-                        })
-                }
                 
+                
+                
+            }
+            GroupBox {
+                HStack{
+                    Text("Repository")
+                    Spacer()
+                    Link("Github", destination: URL(string: "https://github.com/NoSleepTillLambos?tab=repositories")!)
+                                    
+                }.padding()
                 
             }
             Spacer()

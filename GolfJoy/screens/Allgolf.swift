@@ -8,8 +8,33 @@
 import SwiftUI
 
 struct Allgolf: View {
+    
+    var videos: [Video] = golfList.golfInfo
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        NavigationView {
+            List(videos, id: \.id) { video in
+                Image(video.imageName)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(height: 70)
+                    .cornerRadius(4)
+                
+                VStack(alignment: .leading, spacing: 5){
+                    Text(video.title)
+                        .fontWeight(.medium)
+                        .lineLimit(2)
+                        .minimumScaleFactor(0.5)
+                    Text(video.uploadDate)
+                        .font(.subheadline)
+                        .foregroundColor(.secondary)
+                }
+                
+            }
+            .navigationTitle("Browse our training videos")
+        }
+        
+        
     }
 }
 

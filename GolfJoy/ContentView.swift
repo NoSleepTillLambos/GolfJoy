@@ -14,10 +14,6 @@ struct ContentView: View {
                 Image(systemName: "house")
                 Text("Home")
             }
-            SingleItem().tabItem {
-                Image(systemName: "figure.golf")
-                Text("Item")
-            }
             SettingsView().tabItem {
                 Image(systemName: "gear")
                 Text("Settings")
