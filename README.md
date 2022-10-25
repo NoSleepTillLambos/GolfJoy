@@ -112,13 +112,15 @@ very few clicks of a button
 ![image10](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/B70906C15F9D4FF9BC401FD4AE09727B.imageset/B70906C15F9D4FF9BC401FD4AE09727B.png)
 
 ![image11](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/825BB044EAAC433EA4ACC177276CCD98.imageset/825BB044EAAC433EA4ACC177276CCD98.png)
+
+![image12](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/128FD507412B4999BF2B3B1476C2F6D5.imageset/128FD507412B4999BF2B3B1476C2F6D5.png)
 <br/>
 
 
 #### Future Implementation
 
 In the future i would like to include a external storage system such as firebase and begin storing some users information and stats <br/>
-Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score. 
+Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score or you require a membership at a certain club  
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
@@ -136,7 +138,7 @@ To see a run through of the application, click below:
 ## Contact
 
 * **Liam Wedge** - [LiamWedge00@gmail.com] 
-* **Project Link** - https://github.com/NoSleepTillLambos/QuestApp
+* **Project Link** - (https://github.com/NoSleepTillLambos/GolfJoy)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
