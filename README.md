@@ -25,7 +25,7 @@
     ·
     <a href="(https://github.com/NoSleepTillLambos/GolfJoy/issues)">Report Bug</a>
     ·
-    <a href="https://github.com/username/projectname/issues">Request Feature</a>
+    <a href="https://github.com/NoSleepTillLambos/GolfJoy/pulls">Request Feature</a>
 </p>
 ## Table of Contents
 
@@ -56,11 +56,11 @@
 
 
 <!-- header image of project -->
-![image1][image1]
+![image1](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/5086E32CBF564939941A45E33E51219F.imageset/5086E32CBF564939941A45E33E51219F.png)
 
 ### Project Description
 
-<h5>This project was built using Xcode and programmed using Swift. The app features a variety of videos that golfers can access to help improve and work on all aspects of their game.</h5>
+<h5>This project was built using Xcode and programmed using Swift. The app features a variety of videos that golfers can access to help improve and work on all aspects of their game during their round or at the range, making it mobile and easy to access.</h5>
 
 ### Built With
 
@@ -91,16 +91,15 @@ very few clicks of a button
 <!-- DEVELOPMENT PROCESS -->
 ## Development Process
 
-<h5> The development consisted of testing a wide variety of IOS apps on my own phone to get a look and feel for the space and what i would want from an app, from there i created the wireframes, collected inspiration and began developing the app </5>
+<h5> The development consisted of testing a wide variety of IOS apps on my own phone to get a look and feel for the space and what i would want from an app, from there i created the wireframes, collected inspiration, and began developing the app</5>
 
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
-- Learning Swift and some of the Xcode ecosystem was definately the biggest upside of the project, it's a booming market and something I am extremely happy working with
-- Hopefully i'll get a few more projects like these so i can focus on my skills and become a better ios developer
+- Swift actually proved to great to work with, SF symbols provided me with numerous options which i had on hand at all times and simply needed to reference them with no imports required. 
+- Working with data and accessing it through the app to make it dynamic, I was just very excited to work with IOS in general, it's obviously such a big part of our world today so getting a feel for it was a real blessing in my development career 
 
 #### Challenges
-- Learning an entirely new syntax proved to be difficult
-- Xcode is very finicky so getting around those and working out the correct methods and paths was a problem for me in the beginning, lucky there are some very well put together tutorials that helped me get past a lot of the problems
+- My biggest challenge initially was getting used to the syntax and the order of things within Xcode, unlike other languages it has to be perfect for the previews and simulator to run, in a way i find it very useful because your problem is presented to you immediately.
 
 
 <!-- MOCKUPS -->
@@ -108,11 +107,12 @@ very few clicks of a button
 
 ### Mockups
 
-![image9](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/wirefame1.PNG)
+![image9](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/69C09511670A4BE1BD13D270F9AD9689.imageset/69C09511670A4BE1BD13D270F9AD9689.png)
 <br>
-![image10](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/wireframe2.png)
+![image10](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/B70906C15F9D4FF9BC401FD4AE09727B.imageset/B70906C15F9D4FF9BC401FD4AE09727B.png)
+
 <br/>
-![image10](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/wireframe3.png)
+![image11](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/825BB044EAAC433EA4ACC177276CCD98.imageset/825BB044EAAC433EA4ACC177276CCD98.png)
 
 #### Future Implementation
 
@@ -144,16 +144,5 @@ To see a run through of the application, click below:
 * [Swift](https://www.swift.org/)
 * [SF Symbol](https://developer.apple.com/sf-symbols/)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[image1]: /path/to/image.png
-[image2]: /path/to/image.png
-[image3]: /path/to/image.png
-[image4]: /path/to/image.png
-[image5]: /path/to/image.png
-[image6]: /path/to/image.png
-[image7]: /path/to/image.png
-[image8]: /path/to/image.png
-[image9]: /path/to/image.png
-[image10]: /path/to/image.png
 
 
