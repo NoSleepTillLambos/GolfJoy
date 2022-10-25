@@ -10,7 +10,7 @@
 </br>
 <p align="center">
 
-![image11](https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf)
+![image1](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/128FD507412B4999BF2B3B1476C2F6D5.imageset/128FD507412B4999BF2B3B1476C2F6D5.png))
   
   <h2 align="center">GolfJoy</h2>
 
