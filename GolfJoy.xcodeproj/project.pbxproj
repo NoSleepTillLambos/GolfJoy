@@ -143,6 +143,7 @@
 		31F7BDDF28E43B450077C1A1 = {
 			isa = PBXGroup;
 			children = (
+				310303232907D7BE000C851F /* mockups */,
 				31F7BDEA28E43B460077C1A1 /* GolfJoy */,
 				31F7BDFB28E43B4E0077C1A1 /* swift-UITests */,
 				31F7BE0528E43B4E0077C1A1 /* swift-UIUITests */,
@@ -163,7 +164,6 @@
 		31F7BDEA28E43B460077C1A1 /* GolfJoy */ = {
 			isa = PBXGroup;
 			children = (
-				310303232907D7BE000C851F /* mockups */,
 				31A82C222902C5C0009CCA56 /* Data */,
 				312C1AD028EC6E5B008FB989 /* screens */,
 				31CC91AF28EC4A900075F747 /* Preview Content */,
