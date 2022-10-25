@@ -10,7 +10,9 @@
 </br>
 <p align="center">
 
-<img align="center" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png"></img>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png">
+</p>
   
   <h2 align="center">GolfJoy</h2>
 
