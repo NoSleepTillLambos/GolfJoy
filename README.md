@@ -111,8 +111,9 @@ very few clicks of a button
 <br>
 ![image10](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/B70906C15F9D4FF9BC401FD4AE09727B.imageset/B70906C15F9D4FF9BC401FD4AE09727B.png)
 
-<br/>
 ![image11](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/825BB044EAAC433EA4ACC177276CCD98.imageset/825BB044EAAC433EA4ACC177276CCD98.png)
+<br/>
+
 
 #### Future Implementation
 
