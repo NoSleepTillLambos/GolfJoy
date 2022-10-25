@@ -4,14 +4,14 @@
 <br />
 
 <!-- HEADER SECTION -->
-<h5 align="center" style="padding:0;margin:0;">Liam Wedge</h5>
-<h5 align="center" style="padding:0;margin:0;">21100218</h5>
-<h6 align="center">DV_204 2022</h6>
+<h3 align="center" style="padding:0;margin:0;">Liam Wedge</h3>
+<h4 align="center" style="padding:0;margin:0;">21100218</h4>
+<h5 align="center">DV_204 2022</h5>
 </br>
 <p align="center">
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png">
+  <img width="150" height="150" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png">
 </p>
   
   <h2 align="center">GolfJoy</h2>
