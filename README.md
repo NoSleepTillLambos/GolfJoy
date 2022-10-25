@@ -27,6 +27,7 @@
     ·
     <a href="https://github.com/NoSleepTillLambos/GolfJoy/pulls">Request Feature</a>
 </p>
+## TABLE OF CONTENTS
 * [About the Project](#about-the-project)
   * [Project Description](#project-description)
   * [Built With](Xcode)
