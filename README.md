@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://github.com/username/projectname">
-    <img src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/Assets.xcassets/AppIcon.appiconset/logo-2.png" alt="App Logo" width="412" height="210">
+    <img src="https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf">
   </a>
   
   <h3 align="center">GolfJoy</h3>
