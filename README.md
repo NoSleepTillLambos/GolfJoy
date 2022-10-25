@@ -27,32 +27,6 @@
     ·
     <a href="https://github.com/NoSleepTillLambos/GolfJoy/pulls">Request Feature</a>
 </p>
-## TABLE OF CONTENTS
-* [About the Project](#about-the-project)
-  * [Project Description](#project-description)
-  * [Built With](Xcode)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [How to install](#how-to-install)
-* [Features and Functionality](#features-and-functionality)
-* [Concept Process](#concept-process)
-   * [Ideation](#ideation)
-   * [Wireframes](#wireframes)
-   * [User-flow](#user-flow)
-* [Development Process](#development-process)
-   * [Implementation Process](#implementation-process)
-        * [Highlights](#highlights)
-        * [Challenges](#challenges)
-   * [Reviews and Testing](#peer-reviews)
-   * [Future Implementation](#peer-reviews)
-* [Final Outcome](#final-outcome)
-    * [Mockups](#mockups)
-    * [Video Demonstration](#video-demonstration)
-* [Conclusion](#conclusion)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 
 <!-- header image of project -->
 ![image1](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/5086E32CBF564939941A45E33E51219F.imageset/5086E32CBF564939941A45E33E51219F.png)
