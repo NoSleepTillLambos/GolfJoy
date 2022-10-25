@@ -27,11 +27,9 @@
     ·
     <a href="https://github.com/NoSleepTillLambos/GolfJoy/pulls">Request Feature</a>
 </p>
-## Table of Contents
-
 * [About the Project](#about-the-project)
   * [Project Description](#project-description)
-  * [Built With](Android Studio)
+  * [Built With](Xcode)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [How to install](#how-to-install)
