@@ -47,10 +47,11 @@ struct detailedView: View {
                     .bold()
                     .font(.title2)
                     .frame(width: 150, height: 50)
-                    .background(Color(.systemRed))
+                    .background(Color("Teal"))
                     .foregroundColor(.white)
                     .cornerRadius(8)
             })
+            Spacer()
         }
     }
 }
