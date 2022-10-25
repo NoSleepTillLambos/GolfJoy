@@ -10,11 +10,9 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/username/projectname">
-    <img src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/Assets.xcassets/AppIcon.appiconset/logo-2.png" alt="App Logo" width="412" height="210">
-  </a>
+![image11](https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf)
   
-  <h3 align="center">GolfJoy</h3>
+  <h2 align="center">GolfJoy</h2>
 
   <h4 align="center">
     GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their golf game.<br> Golfers can search for tips
@@ -23,11 +21,10 @@
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
     ·
-    <a href="https://github.com/username/projectname/issues">Report Bug</a>
+    <a href="(https://github.com/NoSleepTillLambos/GolfJoy/issues)">Report Bug</a>
     ·
     <a href="https://github.com/username/projectname/issues">Request Feature</a>
 </p>
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -46,8 +43,6 @@
         * [Highlights](#highlights)
         * [Challenges](#challenges)
    * [Reviews and Testing](#peer-reviews)
-        * [Feedback from Reviews](#feedback-from-reviews)
-        * [Unit Tests](#unit-tests)
    * [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
@@ -98,13 +93,12 @@ very few clicks of a button
 <!-- DEVELOPMENT PROCESS -->
 ## Development Process
 
-The development process consisted of designing wireframes, structuring the pages and questions. <br/>
-from there I was able to create and setup the various pages with the questions and complete the frontend. 
+<h5> The development consisted of testing a wide variety of IOS apps on my own phone to get a look and feel for the space and what i would want from an app, from there i created the wireframes, collected inspiration and began developing the app </5>
 
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
-Highlights of the project were being able to work with the Kotlin langauge and testing myself to work with new software, 
-I found the syntax and language in general to be a very rewarding one when working out issues and solving bugs
+- Learning Swift and some of the Xcode ecosystem was definately the biggest upside of the project, it's a booming market and something I am extremely happy working with
+- Hopefully i'll get a few more projects like these so i can focus on my skills and become a better ios developer
 
 #### Challenges
 - Learning an entirely new syntax proved to be difficult
@@ -124,7 +118,7 @@ I found the syntax and language in general to be a very rewarding one when worki
 
 #### Future Implementation
 
-In the future i would like to include a external storage system such as firebase <br/>
+In the future i would like to include a external storage system such as firebase and begin storing some users information and stats <br/>
 Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score. 
 
 <!-- VIDEO DEMONSTRATION -->
@@ -137,7 +131,7 @@ To see a run through of the application, click below:
 <!-- AUTHORS -->
 ## Authors
 
-* **Liam Wedge** - [username](https://github.com/NoSleepTillLambos)
+* **Liam Wedge** - [NoSleepTillLambos](https://github.com/NoSleepTillLambos)
 
 <!-- LICENSE -->
 ## Contact
