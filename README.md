@@ -12,7 +12,7 @@
 
 ![image11](https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf)
   
-  <h3 align="center">GolfJoy</h3>
+  <h2 align="center">GolfJoy</h2>
 
   <h4 align="center">
     GolfJoy is an app designed and developed using SwiftUi with the aim of helping golfers of all calibres improve their golf game.<br> Golfers can search for tips
