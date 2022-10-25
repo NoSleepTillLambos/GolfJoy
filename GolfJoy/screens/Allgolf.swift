@@ -26,7 +26,7 @@ struct Allgolf: View {
     var body: some View {
         
         NavigationView {
-            List(videos, id: \.id) { video in
+            List(filteredData, id: \.id) { video in
                 NavigationLink(
                 destination: detailedView(video: video),
                 label: {
