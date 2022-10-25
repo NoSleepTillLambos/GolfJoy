@@ -10,9 +10,7 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/username/projectname">
-    <img src="https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf">
-  </a>
+![image11](https://drive.google.com/drive/folders/1-rIKItwDZWrMhDiMgouKgHPcFFtWCJUf)
   
   <h3 align="center">GolfJoy</h3>
 
