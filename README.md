@@ -57,10 +57,6 @@ very few clicks of a button
 
 ![image7](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/79F56498FE64496FABA6D8789721B532.imageset/79F56498FE64496FABA6D8789721B532.png)
 
-### User-flow
-
-![image8](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/group70.png)
-
 <!-- DEVELOPMENT PROCESS -->
 ## Development Process
 
