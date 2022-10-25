@@ -78,14 +78,10 @@ Ensure that you have the latest version of [Xcode](https://developer.apple.com/x
 <!-- Briefly explain your concept ideation process -->
 I tried to keep the app as simple yet compelling as possible, with the user flow at the top of the priority list ensuring easy access to everything with 
 very few clicks of a button
-### Ideation
-
-![image5](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/group71.png)
-
 ### Wireframes
 
-![image7](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/homepagewf.png)
-![image8](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/categorieswf.png)
+![image7](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/79F56498FE64496FABA6D8789721B532.imageset/79F56498FE64496FABA6D8789721B532.png)
+
 ### User-flow
 
 ![image8](https://github.com/NoSleepTillLambos/QuestApp/blob/master/app/src/main/res/drawable/group70.png)
