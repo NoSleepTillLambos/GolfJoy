@@ -88,8 +88,9 @@ very few clicks of a button
 
 #### Future Implementation
 
-In the future i would like to include a external storage system such as firebase and begin storing some users information and stats <br/>
-Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score or you require a membership at a certain club  
+ - In the future i would like to include a external storage system such as firebase and begin storing some users information and stats <br/>
+ - Including a system where users can log their scores and keep track of their handicaps, at the moment you need an app thats either paid to maintain an accurate score or you require a membership at a certain club  
+ - Adding a proper review system unlike the one i
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
