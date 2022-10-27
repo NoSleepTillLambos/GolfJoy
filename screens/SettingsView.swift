@@ -6,10 +6,12 @@
 //
 
 import SwiftUI
+import StoreKit
 
 struct SettingsView: View {
     
     @AppStorage("isDarkMode") private var isDarkMode = false
+    @Environment(\.requestReview) var requestReview
     var body: some View {
         VStack {
             Text("Settings")
@@ -41,6 +43,12 @@ struct SettingsView: View {
                                     
                 }.padding()
                 
+            }
+            Spacer()
+            Button {
+                requestReview()
+            } label: {
+                Text("Leave a review!")
             }
             Spacer()
             HStack {

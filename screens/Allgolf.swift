@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Allgolf: View {
     
-
+    
     @State var searchText: String = ""
     
     var videos: [Video] = golfList.golfInfo
