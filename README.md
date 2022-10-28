@@ -11,7 +11,7 @@
 <p align="center">
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png">
+  <img width="150" height="150" src="https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/AC7116FED39B4FA38BC72E9899F53218.imageset/AC7116FED39B4FA38BC72E9899F53218.png">
 </p>
   
   <h2 align="center">GolfJoy</h2>
