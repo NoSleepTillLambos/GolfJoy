@@ -29,7 +29,7 @@
 </p>
 
 <!-- header image of project -->
-![image1](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/5086E32CBF564939941A45E33E51219F.imageset/5086E32CBF564939941A45E33E51219F.png)
+!  [image1]https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/5086E32CBF564939941A45E33E51219F.imageset/5086E32CBF564939941A45E33E51219F.png
 
 ### Project Description
 
