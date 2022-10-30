@@ -76,13 +76,13 @@ very few clicks of a button
 
 ### Mockups
 
-![image9](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/69C09511670A4BE1BD13D270F9AD9689.imageset/69C09511670A4BE1BD13D270F9AD9689.png)
+![image9](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/69C09511670A4BE1BD13D270F9AD9689.imageset/69C09511670A4BE1BD13D270F9AD9689.png)
 <br>
-![image10](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/B70906C15F9D4FF9BC401FD4AE09727B.imageset/B70906C15F9D4FF9BC401FD4AE09727B.png)
+![image10](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/B70906C15F9D4FF9BC401FD4AE09727B.imageset/B70906C15F9D4FF9BC401FD4AE09727B.png)
 
-![image11](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/825BB044EAAC433EA4ACC177276CCD98.imageset/825BB044EAAC433EA4ACC177276CCD98.png)
+![image11](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/825BB044EAAC433EA4ACC177276CCD98.imageset/825BB044EAAC433EA4ACC177276CCD98.png)
 
-![image12](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/128FD507412B4999BF2B3B1476C2F6D5.imageset/128FD507412B4999BF2B3B1476C2F6D5.png)
+![image12](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/128FD507412B4999BF2B3B1476C2F6D5.imageset/128FD507412B4999BF2B3B1476C2F6D5.png)
 <br/>
 
 
