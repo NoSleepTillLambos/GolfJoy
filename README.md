@@ -55,7 +55,7 @@ I tried to keep the app as simple yet compelling as possible, with the user flow
 very few clicks of a button
 ### Wireframes
 
-![image7](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/GolfJoy/screens/Assets.xcassets/thumbnails/79F56498FE64496FABA6D8789721B532.imageset/79F56498FE64496FABA6D8789721B532.png)
+![image7](https://github.com/NoSleepTillLambos/GolfJoy/blob/main/screens/Assets.xcassets/thumbnails/79F56498FE64496FABA6D8789721B532.imageset/79F56498FE64496FABA6D8789721B532.png)
 
 <!-- DEVELOPMENT PROCESS -->
 ## Development Process
